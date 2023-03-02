@@ -2,13 +2,13 @@
 **Akbank Python Bootcamp Projesi**
 
 ## Takım Üyeleri
-- Sabir SÜLEYMANLI, suleymanlisabir3@gmail.com
-.
-.
-.
-.
+- Sabir SÜLEYMANLI, _suleymanlisabir3@gmail.com_
+-
+-
+-
+-
 
-Kullan;lan Kaynaklar:
+Kullanılan Kaynaklar:
 .
 .
 .
