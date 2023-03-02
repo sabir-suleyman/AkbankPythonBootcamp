@@ -3,8 +3,8 @@
 
 ## Takım Üyeleri
 - Sabir SÜLEYMANLI, _suleymanlisabir3@gmail.com_
--
--
+- Beyza Ceylan, _beyzaceylan0134@gmail.com_
+- N. Doğazn Çinar, 
 -
 -
 
