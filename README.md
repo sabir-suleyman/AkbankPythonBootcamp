@@ -25,26 +25,26 @@ Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle ba�
 - 
 
 ## 2.Gerekli Kitaplıkları İçe Aktarma
-*Import csv
-*Import datetime 
+*Import csv*
+*Import datetime* 
 
 
 ## 3.“Menu.txt” dosyasını oluştur
 - Menu.txt adlı bir dosya oluşturun ve içine aşağıdaki metni yazın.
 
-* * Lütfen Bir Pizza Tabanı Seçiniz:
-*1: Klasik
-*2: Margarita
-*3: TürkPizza
-*4: Sade Pizza
-* * ve seçeceğiniz sos:
-*11: Zeytin
-*12: Mantarlar
-*13: Keçi Peyniri
-*14: Et
-*15: Soğan
-*16: Mısır
-* * Teşekkür ederiz!
+* Lütfen Bir Pizza Tabanı Seçiniz:
+1: Klasik
+2: Margarita
+3: TürkPizza
+4: Sade Pizza
+* ve seçeceğiniz sos:
+11: Zeytin
+12: Mantarlar
+13: Keçi Peyniri
+14: Et
+15: Soğan
+16: Mısır
+* Teşekkür ederiz!
 
 
 ## 4.Üst sınıf oluştur “pizza”
@@ -64,14 +64,14 @@ Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle ba�
 
 **SAMPLE CODE** 
 
-   * def get_cost(self):
+     def get_cost(self):
        return self.component.get_cost() + \
-         Pizza.get_cost(self) *
+         Pizza.get_cost(self) 
 
 
-   *def get_description(self):
+    def get_description(self):
        return self.component.get_description() + \
-         ' ' + Pizza.get_description(self) *
+         ' ' + Pizza.get_description(self) 
 
 - Sos olarak Zeytin, Mantar, Keçi Peyniri, Et, Soğan ve Mısır'ı belirleyin ve belirlediğiniz sosların her birini bir sınıf olarak tanımlayın.
 Unutmayın ki her sosun kendine ait bir fiyatı ve değişken olarak her bir pizzanın açıklaması olması gerekir.
