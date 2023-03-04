@@ -22,12 +22,13 @@ Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle ba�
 
 - Projenizin .ipynb veya .py uzantısına sahip olduğundan emin olun.
 - Projenizde ayrıntıları açıklayan yorum satırları olduğundan emin olun.
-- 
+
 
 ## 2.Gerekli Kitaplıkları İçe Aktarma
+```
 *Import csv*
 *Import datetime* 
-
+```
 
 ## 3.“Menu.txt” dosyasını oluştur
 - Menu.txt adlı bir dosya oluşturun ve içine aşağıdaki metni yazın.
