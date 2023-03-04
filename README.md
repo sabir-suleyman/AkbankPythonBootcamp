@@ -26,8 +26,8 @@ Sistem, kullanıcıların menüdeki pizzayı ve istedikleri sosu seçmesiyle ba�
 
 ## 2.Gerekli Kitaplıkları İçe Aktarma
 ```
-*Import csv*
-*Import datetime* 
+Import csv
+Import datetime 
 ```
 
 ## 3.“Menu.txt” dosyasını oluştur
