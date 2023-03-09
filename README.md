@@ -1,3 +1,7 @@
+## Bu Dosyayı başka dillerde oku:
+<a href="README.en.md"><img src="https://img.shields.io/badge/-ENGLISH-red?style=for-the-badge"></a>
+<a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
+
 # Akbank Python Bootcamp: Global AI Hub
 Akbank ve Global AI Hub iş birliğinde Yapay Zeka ve modern dijital teknolojiler alanlarında, okuryazarlık, programlama ve temel bilgi seviyesi edinmeniz için bir  Bootcamp.
 
