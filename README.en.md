@@ -3,7 +3,7 @@
 <a href="README.md"><img src="https://img.shields.io/badge/-T%C3%9CRK%C3%87E-red?style=for-the-badge"></a>
 
 # Akbank Python Bootcamp: Global AI Hub
-Akbank ve Global AI Hub iş birliğinde Yapay Zeka ve modern dijital teknolojiler alanlarında, okuryazarlık, programlama ve temel bilgi seviyesi edinmeniz için bir  Bootcamp.
+Artificial Intelligence Literacy Bootcamp organized in cooperation with Koç Holding and within the scope of Aygaz W-Energy For Equality
 
 ## Team Members
 - Sabir SÜLEYMANLI,   _suleymanlisabir3@gmail.com_
