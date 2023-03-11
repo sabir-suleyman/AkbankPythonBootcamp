@@ -9,7 +9,7 @@ Akbank ve Global AI Hub iş birliğinde Yapay Zeka ve modern dijital teknolojile
 - Sabir SÜLEYMANLI,   _suleymanlisabir3@gmail.com_
 - Beyza Ceylan,       _beyzaceylan0134@gmail.com_
 - Nizam Doğan Çinar,  _doganccinar@gmail.com_
-- Yasemin EKER, _yasemineker06@hotmail.com_
+- Yasemin EKER, _yasemineker66@gmail.com_
 - Ecem Altınkeser, 
 
 ## Proje Detayı
