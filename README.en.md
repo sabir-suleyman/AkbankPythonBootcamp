@@ -14,9 +14,8 @@ Artificial Intelligence Literacy Bootcamp organized in cooperation with Koç Hol
 ## Team Members
 - Sabir SÜLEYMANLI,   _suleymanlisabir3@gmail.com_
 - Beyza Ceylan,       _beyzaceylan0134@gmail.com_
-- Nizam Doğan Çinar,  _doganccinar@gmail.com_
 - Yasemin EKER, _yasemineker66@gmail.com_
-- Ecem Altınkeser, 
+- Ecem Altınkeser, _ecemaltinkeser@gmail.com_
 
 ## Project Details
 
