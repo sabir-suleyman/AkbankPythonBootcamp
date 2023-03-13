@@ -5,6 +5,12 @@
 # Akbank Python Bootcamp: Global AI Hub
 Akbank ve Global AI Hub iş birliğinde Yapay Zeka ve modern dijital teknolojiler alanlarında, okuryazarlık, programlama ve temel bilgi seviyesi edinmeniz için bir  Bootcamp.
 
+<table><tr>
+<td> <img src="https://globalaihub.com/wp-content/uploads/2021/07/globalaihub-logo-1-1024x424.png" width="200""/> </td>
+<td> <img src="https://w7.pngwing.com/pngs/973/59/png-transparent-akbank-hd-logo.png" width="200""/> </td>
+</tr></table>
+
+
 ## Takım Üyeleri
 - Sabir SÜLEYMANLI,   _suleymanlisabir3@gmail.com_
 - Beyza Ceylan,       _beyzaceylan0134@gmail.com_
