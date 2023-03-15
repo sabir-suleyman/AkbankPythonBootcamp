@@ -7,7 +7,6 @@ Akbank ve Global AI Hub iş birliğinde Yapay Zeka ve modern dijital teknolojile
 
 <table><tr>
 <td> <img src="https://globalaihub.com/wp-content/uploads/2021/07/globalaihub-logo-1-1024x424.png" width="200""/> </td>
-<td><td><td><td><td>
 <td> <img src="https://w7.pngwing.com/pngs/973/59/png-transparent-akbank-hd-logo.png" width="200""/> </td>
 </tr></table>
 
